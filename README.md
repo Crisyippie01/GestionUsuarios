@@ -18,7 +18,7 @@ En esta versión contiene lo principal para poder ir trabajando, se está trabaj
 - Otros
 
 ## Capturas:
-![image](https://github.com/user-attachments/assets/a74b1386-097b-4da1-890b-5b6e22ee8abe)
-![image](https://github.com/user-attachments/assets/5f3cfbc2-7879-4b3c-846e-b9db92b8574a)
-![image](https://github.com/user-attachments/assets/6ece882e-85d0-4485-9d05-8c8a7276ae5b)
+![image](https://github.com/user-attachments/assets/a74b1386-097b-4da1-890b-5b6e22ee8abe)  
+![image](https://github.com/user-attachments/assets/5f3cfbc2-7879-4b3c-846e-b9db92b8574a)  
+![image](https://github.com/user-attachments/assets/6ece882e-85d0-4485-9d05-8c8a7276ae5b)  
 
