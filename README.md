@@ -3,15 +3,15 @@ Un microservicio desarrollado con SpringBoot en lenguaje java 17 para ser consum
 
 En esta versión contiene lo principal para poder ir trabajando.
 Contenido:
- Controller:
+ 	Controller:
               - Puedes crear un usuario 
               - Puedes listar los usuarios con /listar
-      Model:
+      	Model:
               - Está construido el usuario como una entidad
               - Se define la tabla como "usuario"
               - Constructores Sin/Con argumentos
               - Definidas las caracteristicas de los atributos (Cosas como si puede ser nulo, largo, etc)
-Repository:
+	Repository:
 							- Se extiende como JPA para ocupar las funciones incluidas
 
 	Service:
