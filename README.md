@@ -1,2 +1,4 @@
 # microservicio
-Un microservicio desarrollado con SpringBoot en lenguaje java 17 para ser consumido por una aplicación
+Se agregó: 
+✅ Más documentación
+✅ Se terminó el inicio de sesión con verificación
